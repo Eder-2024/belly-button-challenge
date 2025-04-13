@@ -30,5 +30,5 @@ This dashboard enables users to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/belly-button-challenge.git
+   git clone https://github.com/Eder-2024/belly-button-challenge.git
    cd belly-button-challenge
