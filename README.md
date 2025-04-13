@@ -32,3 +32,10 @@ This dashboard enables users to:
    ```bash
    git clone https://github.com/Eder-2024/belly-button-challenge.git
    cd belly-button-challenge
+
+---
+
+## References
+- Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from:    
+  http://robdunnlab.com/projects/belly-button-biodiversity/results-and-dataLinks to an external site.
+
